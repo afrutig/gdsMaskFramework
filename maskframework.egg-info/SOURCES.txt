@@ -1,0 +1,6 @@
+maskframework.egg-info/Icon
+maskframework.egg-info/PKG-INFO
+maskframework.egg-info/SOURCES.txt
+maskframework.egg-info/dependency_links.txt
+maskframework.egg-info/requires.txt
+maskframework.egg-info/top_level.txt
