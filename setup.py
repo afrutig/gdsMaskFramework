@@ -1,4 +1,6 @@
 from distutils.core import setup
+import setuptools
+
 
 setup(name='maskframework',
       version='1.0',

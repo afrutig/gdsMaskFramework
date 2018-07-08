@@ -1,3 +1,5 @@
+README.md
+setup.py
 maskframework.egg-info/Icon
 maskframework.egg-info/PKG-INFO
 maskframework.egg-info/SOURCES.txt
