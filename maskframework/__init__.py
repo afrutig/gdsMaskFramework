@@ -1,1 +1,1 @@
-from mask_frame_work import *
+from .mask_frame_work import *
